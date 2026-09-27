@@ -1,5 +1,7 @@
 # F1 Home Championship
 
+<img src="assets/brand-mark.svg" alt="Monograma HC" width="120"/>
+
 **Un volante. Una liga. Todos conectados.**
 
 Una aplicación creada para organizar campeonatos de F1 25 entre familia y amigos, con una PS5, un solo volante y pilotos que compiten por turnos.
@@ -12,13 +14,15 @@ Una aplicación creada para organizar campeonatos de F1 25 entre familia y amigo
 
 Cada participante tiene un perfil y una historia. Una reunión deja resultados, puntos y récords; las siguientes continúan esa misma liga.
 
-- Salas compartidas, registro con usuario y PIN y admisión por el anfitrión.
+- Salas compartidas, registro con usuario y PIN, admisión por código o invitación directa por WhatsApp.
 - Pilotos permanentes, temporadas, campeonatos y siete modalidades de competición.
 - Hot Seat, carga rápida de vueltas y confirmación de dirección de carrera.
 - Cronómetro opcional por turno, igual para todos, y tablero para TV.
 - Clasificaciones, estadísticas, enfrentamientos y evolución de récords.
 - Récords del videojuego separados de las referencias reales de Formula 1.
 - Datos persistentes, exportación, recuperación y auditoría.
+- Tarjetas PNG para compartir resultados, posiciones del campeonato y récords de la liga, en formato vertical o cuadrado.
+- Enlaces de invitación con vencimiento, renovación y revocación; cada piloto utiliza su propia cuenta.
 
 La app acompaña la competencia presencial. Los tiempos se registran y verifican manualmente a partir de la PS5.
 
@@ -46,7 +50,7 @@ Antecedente conceptual con datos ficticios. La implementación conserva los cont
 
 Este espacio es la presentación pública del proyecto. El código completo y la documentación de implementación se mantienen en un repositorio privado. No contiene datos de salas, usuarios, PIN ni respaldos deportivos.
 
-El desarrollo utiliza React y TypeScript, una base relacional persistente y almacenamiento de archivos. La versión funcional pasó 56 pruebas de dominio/persistencia y 15 verificaciones de integración multiusuario.
+El desarrollo utiliza React y TypeScript, una base relacional persistente y almacenamiento de archivos. La versión funcional pasó 70 pruebas de dominio/persistencia y 20 verificaciones de integración multiusuario.
 
 **Creado por [Marcelo Gómez](https://github.com/sinergiaestudio)**.
 
