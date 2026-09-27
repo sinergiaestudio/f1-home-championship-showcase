@@ -1,14 +1,16 @@
 # Del living a la parrilla
 
-Propuesta visual previa a implementación, 27 de septiembre de 2026.
+Dirección visual aplicada el 27 de septiembre de 2026.
 
-| Pantalla | Tratamiento |
-|---|---|
-| Landing | Volante compartido en casa, amigos de fondo, luz roja y ambiente cálido. Título legible sobre zona oscura; ingreso sobre una tarjeta opaca. |
-| Paddock | Fotografía contenida de circuito/boxes y una trama técnica tenue, con clasificación sobre superficies limpias. |
-| Hot Seat | Material grafito, límites precisos y acento rojo. El cronómetro y la carga de vuelta mandan. |
-| Live Board | Iluminación lateral discreta. Posiciones, diferencias y tiempos grandes, sin imagen bajo las filas. |
+- Landing con una imagen original del volante compartido y amigos reunidos en casa.
+- Grafito, blanco, rojo y luz contenida; fondos técnicos discretos.
+- Una interpretación visual propia para cada uno de los 24 circuitos de F1 25.
+- La identidad del circuito acompaña el paddock, su ficha, las fechas y la preparación de eventos.
+- Hot Seat y TV mantienen números grandes y superficies opacas.
+- Imágenes WebP adaptables, carga diferida en tarjetas y respeto por movimiento reducido.
 
-Los renders son conceptuales y usan datos ficticios. La app publicada sigue siendo la versión funcional vigente. Los detalles ilustrativos del circuito no sustituyen las referencias deportivas verificadas de la aplicación.
+Las escenas son arte conceptual inspirado en sus entornos. No son fotografías documentales ni trazados exactos. Los datos de Fórmula 1 real, las geometrías y los resultados de F1 25 tienen fuentes y funciones independientes.
 
-En celular se propone una imagen compacta que no aleje el acceso; en TV, lectura a distancia y nada de movimiento constante. La integración conservará todos los flujos de salas, permisos, eventos y estadísticas.
+[Galería de 24 circuitos](GALLERY.md)
+
+El código y la documentación técnica están en el repositorio privado del proyecto. Esta presentación no contiene datos de salas ni credenciales.

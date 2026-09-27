@@ -6,7 +6,7 @@ Una aplicación creada para organizar campeonatos de F1 25 entre familia y amigo
 
 [Entrar a la aplicación](https://f1-home-championship.arielmarcelogomez7.chatgpt.site)
 
-![Del living a la parrilla](assets/hero-home-racing.png)
+![Landing implementada](assets/landing-v4.jpg)
 
 ## El campeonato empieza en casa
 
@@ -22,13 +22,25 @@ Cada participante tiene un perfil y una historia. Una reunión deja resultados, 
 
 La app acompaña la competencia presencial. Los tiempos se registran y verifican manualmente a partir de la PS5.
 
-## La próxima etapa visual
+## La experiencia visual
 
-**Del living a la parrilla** propone una entrada cinematográfica y pantallas de competición claras. Fotografía conceptual al entrar, texturas técnicas sutiles en el paddock y números limpios durante la carrera.
+**Del living a la parrilla** ya forma parte de la aplicación. Una landing cinematográfica, superficies de competición legibles y una colección de **24 imágenes originales**, una por circuito.
+
+Cada pista tiene su atmósfera en el paddock, la ficha del circuito, las fechas y la preparación de un evento. El cronómetro y las clasificaciones conservan fondos opacos para que las milésimas sean protagonistas.
+
+![Catálogo implementado, revisado con datos ficticios aislados](assets/circuits-v4.jpg)
+
+[Ver los 24 escenarios](GALLERY.md) · [Dirección visual](VISUAL_DIRECTION.md)
+
+Las escenas son interpretaciones artísticas, no fotografías verificadas ni mapas exactos. Los trazados y récords deportivos se muestran por separado en la app.
+
+<details><summary>El storyboard que dio origen al diseño</summary>
 
 ![Storyboard conceptual de cuatro pantallas](assets/storyboard-visual-evolution.png)
 
-*Propuesta conceptual con datos ficticios. No es una captura de una interfaz ya implementada. La app funcional publicada conserva su diseño vigente hasta la integración de esta etapa.*
+Antecedente conceptual con datos ficticios. La implementación conserva los controles y funcionalidades reales de la aplicación.
+
+</details>
 
 ## Sobre este repositorio
 
@@ -38,4 +50,4 @@ El desarrollo utiliza React y TypeScript, una base relacional persistente y alma
 
 **Creado por [Marcelo Gómez](https://github.com/sinergiaestudio)**.
 
-Proyecto independiente, sin afiliación con Formula 1, FIA, EA Sports, PlayStation o Logitech. Las imágenes de esta presentación son ilustraciones conceptuales generadas para el proyecto.
+Proyecto independiente, sin afiliación con Formula 1, FIA, EA Sports, PlayStation o Logitech. La presentación combina capturas de la interfaz implementada con imágenes conceptuales originales. Los ejemplos deportivos de las capturas son ficticios y aislados de las salas.
